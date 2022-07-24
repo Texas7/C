@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1630592845 source:c:\users\gabis\desktop\uniube - python ex - c ex\c exercicios\exercicios\ex5.c
+	<stdio.h>
+
+1584205420 source:c:\users\gabis\desktop\uniube - python ex - c ex\c exercicios\exercicios\main.c
+	<stdio.h>
+	<stdlib.h>
+
